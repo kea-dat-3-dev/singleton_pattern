@@ -1,2 +1,2 @@
-# singleton_pattern
+# Singleton Pattern
 Agenda Singleton Pattern
